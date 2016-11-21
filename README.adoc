@@ -1,5 +1,20 @@
 
-= Endnotes
+= Endnotes For _The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations_
+
+Authors: Gene Kim, Patrick Debois, John Willis, Jez Humble
+
+Amazon link: https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/
+
+One of the things that I'm personally proudest of is how many citations there are in the book -- at current count, there were 510 citations.  Anyone interested in the topics covered in the book will likely find the citations interesting and potentially useful.
+
+I've extracted the endnotes from the book, which are in a very usable form: they show the page number (as per the paperback edition), as well as three words that the citation is anchored to, and then a citation that has been fact-checked.
+
+Enjoy!  Pull requests welcome!
+
+Cheers,
+Gene
+
+
 
 :numbered!:
 
