@@ -1,0 +1,746 @@
+
+= Endnotes
+
+:numbered!:
+
+
+== Introduction
+
+* Page xxii:	__Before the revolution…_: _ Eliyahu M. Goldratt, Beyond the Goal: Eliyahu Goldratt Speaks on the Theory of Constraints (Your Coach in a Box) (Prince Frederick, Maryland: Gildan Media, 2005), Audiobook.
+
+* Page xxiv: __Put even more…_: _ Jeff Immelt, “GE CEO Jeff Immelt: Let’s Finally End the Debate over Whether We Are in a Tech Bubble,” Business Insider, December 9, 2015, http://www.businessinsider.com/ceo-of-ge-lets-finally-end-the-debate-over-whether-we-are-in-a-tech-bubble-2015-12.
+
+* _Or as Jeffrey…_:  “Weekly Top 10: Your DevOps Flavor,” Electric Cloud, April 1, 2016,  http://electric-cloud.com/blog/2016/04/weekly-top-10-devops-flavor/.
+
+* Page xxv: _Dr. Eliyahu M. Goldratt…_:  Goldratt, Beyond the Goal.
+
+* Page xvi: _As Christopher Little…_:  Christopher Little, personal correspondence with Gene Kim, 2010.
+
+* Page xxvii: _As Steven J. Spear…_:  Steven J. Spear, The High-Velocity Edge: How Market Leaders Leverage Operational Excellence to Beat the Competition (New York, NY: McGraw Hill Education), Kindle edition, chap. 3.
+
+* __In 2013, the…_: _ Chris Skinner, “Banks have bigger development shops than Microsoft,” Chris Skinner’s Blog, accessed July 28, 2016, 
+http://thefinanser.com/2011/09/banks-have-bigger-development-shops-than-microsoft.html/.
+
+* Page xxviii: __Projects are typically…_: _ Nico Stehr and Reiner Grundmann,
+Knowledge: Critical Concepts, Volume 3 (London: Routledge, 2005), 139.
+
+* Dr. Vernon Richardson… A. Masli, V.  Richardson, M. Widenmier, and R. Zmud, “Senior Executive’s IT Management Responsibilities: Serious IT Deficiencies and CEO-CFO Turnover,” MIS Quaterly (published electronically June 21, 2016).
+
+* Page xxix: __Consider the following…_: _ “IDC Forecasts Worldwide IT Spending to Grow 6% in 2012, Despite Economic Uncertainty,” Business Wire, September 10, 2012, http://www.businesswire.com/news/home/20120910005280/en/IDC-Forecasts-Worldwide-Spending-Grow-6-2012.
+
+* Page xxxii: __The first surprise…_: _ Nigel Kersten, IT Revolution, and PwC, 2015 State of DevOps Report (Portland, OR: Puppet Labs, 2015), https://puppet.com/resources/white-paper/2015-state-of-devops-report?_ga=1.6612658.168869.1464412647&link=blog.
+
+* Page xxxiii: _This is highlighted…_:  Frederick P. Brooks, Jr., The Mythical ManMonth: Essays on Software Engineering, Anniversary Edition (Upper Saddle River, NJ: Addison-Wesley, 1995).
+
+* Page xxxiv: _As Randy Shoup…_:  Gene Kim, Gary Gruver, Randy Shoup, and Andrew Phillips, “Exploring the Uncharted Territory of Microservices,” XebiaLabs.com, webinar, February 20, 2015, https://xebialabs.com/community/webinars/exploring-the-uncharted-territory-of-microservices/.
+
+* __The 2015 State…_: _ Kersten, IT Revolution, and PwC, 2015 State of DevOps Report.
+
+* __Another more extreme…_: _ “Velocity 2011: Jon Jenkins, ‘Velocity Culture’,” YouTube video, 15:13, posted by O’Reilly, June 20, 2011, https://www.youtube.com/watch?v=dxk8b9rSKOo; “Transforming Software Development,” YouTube video, 40:57, posted by Amazon Web Service, April 10, 2015,  https://www.youtube.com/watch?v=YCrhemssYuI&feature=youtu.be. 
+
+* Page xxxv:	_Later in his…_:  Eliyahu M. Goldratt, Beyond the Goal.
+
+* _As with The…_:  JGFLL, review of The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win, by Gene Kim, Kevin Behr, and George Spafford, Amazon.com review, March 4, 2013, http:// www.amazon.com/review/R1KSSPTEGLWJ23; Mark L Townsend, review of The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win, by Gene Kim, Kevin Behr, and George Spafford, Amazon.com review, March 2, 2013, http://uedata.amazon.com/gp/customer-reviews/R1097DFODM12VD/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&ASIN=B00VATFAMI; Scott Van Den Elzen, review of The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win, by Gene Kim, Kevin Behr, and George Spafford, Amazon.com review, March 13, 2013, http://uedata.amazon.com/gp/customer-reviews/R2K95XEH5OL3Q5/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&ASIN=B00VATFAMI.
+
+== Part I: The Three Ways
+
+* Page 5:	 _One key principle…_:  Kent Beck, et al., “Twelve Principles of Agile Software,” AgileManifesto.org, 2001, http://agilemanifesto.org/principles.html.
+
+* Page 6:	 _He concluded that…_:  Mike Rother, Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results (New York: McGraw Hill, 2010), Kindle edition, Part III.
+
+=== Chapter 1: Agile, Continuous Delivery, and the Three Ways
+
+* Page 7:	 _Karen Martin and…_:  Karen Martin and Mike Osterling, Value Stream Mapping: How to Visualize Work and Align Leadership for Organizational Transformation (New York: McGraw Hill, 2013), Kindle edition, chap 1.
+
+* Page 9:		In this book… Ibid., chap. 3.
+
+* Page 11:		_Karen Martin and…_:  Ibid.
+
+=== Chapter 2: The First Way: The Principles of Flow
+
+* Page 17:	 _Studies have shown…_:  Joshua S. Rubinstein, David E. Meyer, and Jeffrey E. Evans, “Executive Control of Cognitive Processes in Task Switching,” Journal of Experimental Psychology: Human Perception and Performance 27, no. 4 (2001): 763-797, doi: 10.1037//00961523.27.4.763, http://www.umich.edu/~bcalab/documents/RubinsteinMeyerEvans2001.pdf.
+
+* Page 18:	 _Dominica DeGrandis, one…_:  “DOES15—Dominica DeGrandis—The Shape of Uncertainty,” YouTube video, 22:54, posted by DevOps Enterprise Summit, November 5, 2015, https://www.youtube.com/watch?v=Gp05i0d34gg.
+
+* Taiichi Ohno compared… Sami Bahri, “Few Patients-In-Process and Less Safety Scheduling; Incoming Supplies are Secondary,” The Deming Institute Blog, August 22, 2013, https://blog.deming.org/2013/08/fewer-patients-in-process-and-less-safety-scheduling-incoming-supplies-are-secondary/.
+
+* In other words… Meeting between David J. Andersen and team at Motorola with Daniel S. Vacanti, February 24, 2004; story retold at USC CSSE Research Review with Barry Boehm in March 2004.
+
+* Page 19:	 _The dramatic differences…_:  James P. Womack and Daniel T. Jones, Lean Thinking: Banish Waste and Create Wealth in Your Corporation (New York: Free Press, 2010), Kindle edition, chap. 1.
+
+* Page 20:	 _There are many…_:  Eric Ries, “Work in small batches,” StartupLessonsLearned.com, February 20, 2009, http://www.startuplessonslearned.com/2009/02/work-in-small-batches.html.
+
+* Page 21:	 _In Beyond the…_:  Goldratt, Beyond the Goal.
+
+* Page 22:	 _As a solution…_:  Eliyahu M. Goldratt, The Goal: A Process of Ongoing Improvement (Great Barrington, MA: North River Press, 2014), Kindle edition, “Five Focusing Steps.”
+
+* Page 23:	 _Shigeo Shingo, one…_:  Shigeo Shingo, A Study of the Toyota Production System: From an Industrial Engineering Viewpoint (London: Productivity Press, 1989); “The 7 Wastes (Seven forms of Muda),” BeyondLean.com, accessed July 28, 2016, http://www.beyondlean.com/7-wastes.html.
+
+* Page 24:	 _In the book…_:  Mary Poppendieck and Tom Poppendieck, Implementing Lean Software: From Concept to Cash, (Upper Saddle River, NJ: Addison-Wesley, 2007), 74.
+
+* _The following categories…_:  Adapted from Damon Edwards, “DevOps Kaizen: Find and Fix What Is Really Behind Your Problems,” Slideshare.net, posted by dev2ops, May 4, 2015, http://www.slideshare.net/dev2ops/dev-ops-kaizen-damon-edwards.
+
+=== Chapter 3: The Second Way: The Principles of Feedback
+
+* Page 28:	 _Dr. Charles Perrow…_:  Charles Perrow, Normal Accidents: Living with High Risk Technologies (Princeton, NJ: Princeton University Press, 1999).
+
+* _Dr. Sidney Dekker…_:  Dr. Sidney Dekker, The Field Guide to Understanding Human Error (Lund University, Sweden: Ashgate, 2006).
+
+* _After he decoded…_:  Spear, The High-Velocity Edge, chap. 8.
+
+* Dr. Spear extended… Ibid.
+
+* Page 29:	 _Dr. Peter Senge…_:  Peter M. Senge, The Fifth Discipline: The Art & Practice of the Learning Organization (New York: Doubleday, 2006), Kindle edition, chap. 5.
+
+* _In one well-documented…_:  “NUMMI,” This American Life, March 26, 2010,  http://www.thisamericanlife.org/radio-archives/episode/403/transcript.
+
+* Page 30:	 As Elisabeth Hendrickson… “DOES15 Elisabeth Hendrickson Its All About Feedback,” YouTube video, 34:47, posted by DevOps Enterprise Summit, November 5, 2015, https://www.youtube.com/watch?v=r2BFTXBundQ.
+“In doings so… Spear, The High-Velocity Edge, chap. 1.
+
+* Page 31:	 _As Dr. Spear…_:  Ibid., chap. 4.
+
+* _In the 1700s…_:  Dr. Thomas Sowell, Knowledge and Decisions (New York: Basic Books, 1980), 222.
+
+* Page 34:		_As Gary Gruver…_:  Gary Gruver, personal correspondence with Gene Kim, 2014.
+
+=== Chapter 4: The Third Way: The Principles of Continual Learning and Experimentation
+
+* Page 37:	 _For instance, in…_:  Paul Adler, “Time-and-Motion Regained,” Harvard Business Review, January-February 1993, https://hbr.org/1993/01/time-and-motion-regained.
+
+* Page 38:	 _The “name, blame…_:  Dekker, The Field Guide to Understanding Human Error, chap. 1.
+
+* _Dr. Sidney Dekker…_:  “Just Culture: Balancing Safety and Accountability,” Lund University, Human Factors & System Safety website, November 6, 2015, http://www.humanfactors.lth.se/sidney-dekker/books/just-culture/.
+
+* Page 39:	 _He observed that…_:  Ron Westrum, “The study of information flow: A personal journey,” Proceedings of Safety Science 67 (August 2014): 58-63, https://www.researchgate.net/publication/261186680_The_study_of_information_flow_A_personal_journey.
+
+* _As Bethany Macri…_:  Bethany Macri, “Morgue: Helping Better Understand Events by Building a Post Mortem Tool Bethany Macri,” Vimeo video, 33:34, posted by info@devopsdays.org, October 18, 2013, http://vimeo.com/77206751.
+
+* _Dr. Spear observes…_:  Spear, The High-Velocity Edge, chap. 1.
+
+* _In The Fifth…_:  Senge, The Fifth Discipline, chap. 1.
+
+* _Mike Rother observed…_:  Mike Rother, Toyota Kata, 12.
+
+* _This is why…_:  Mike Orzen, personal correspondence with Gene Kim, 2012.
+
+* Page 41:	 _Consider the following…_:  “Paul O’Neill,” Forbes, October 11, 2001, http://www.forbes.com/2001/10/16/poneill.html.
+
+* _In 1987, Alcoa…_:  Spear, The High-Velocity Edge, chap. 4.
+
+* _As Dr. Spear…_:  Ibid.
+
+* Page 42:	 _A remarkable example…_:  Ibid., chap. 5.
+
+* Page 44:	 _This process of…_:  Nassim Nicholas Taleb, Antifragile: Things That Gain from Disorder (Incerto), (New York: Random House, 2012).
+
+* _According to Womack…_:  Jim Womack, Gemba Walks (Cambridge, MA: Lean Enterprise Institute, 2011), Kindle edition, location 4113.
+
+* Page 45:	 _Mike Rother formalized…_:  Rother, Toyota Kata, Part IV.
+
+* _Mike Rother observes…_:  Ibid., Conclusion.
+
+== Part II: Where To Start
+
+=== Chapter 5: Selecting Which Value Stream to Start With
+
+* Page 51:	 _Therefore, we must…_:  Michael Rembetsy and Patrick McDonnell, “Continuously Deploying Culture [at Etsy],” Slideshare.net, October 4, 2012, posted by Patrick McDonnel.bl, http://www.slideshare.net/mcdonnps/continuously-deploying-culture-scaling-culture-at-etsy-14588485.
+
+* _In 2015, Nordstrom…_:  “Nordstrom, Inc.,” company profile on Vault. com, http://www.vault.com/company-profiles/retail/nordstrom-inc/company-overview.aspx.
+
+* _The stage for…_:  Courtney Kissler, “DOES14 Courtney Kissler Nordstrom Transforming to a Culture of Continuous Improvement,” YouTube video, 29:59, posted by DevOps Enterprise Summit 2014, October 29, 2014, https://www.youtube.com/watch?v=0ZAcsrZBSlo.
+
+* These organizations were… Tom Gardner, “Barnes & Noble, Blockbuster, Borders: The Killer B’s Are Dying,” The Motley Fool, July 21, 2010, http://www.fool.com/investing/general/2010/07/21/barnes-noble-blockbuster-borders-the-killer-bs-are.aspx.
+
+* Page 52:	 _As Kissler described…_:  Kissler, “DOES14 Courtney Kissler Nordstrom.”
+
+* _As Kissler said…_:  Ibid; Alterations to quote made by Courtney Kissler via personal correspondence with Gene Kim, 2016.
+
+* Page 53:	 _As Kissler stated…_:  Ibid; Alterations to quote made by Courtney Kissler via personal correspondence with Gene Kim, 2016.
+
+* _In 2015, Kissler…_:  Ibid.
+
+* _She continued, “This…_:  Ibid.
+
+* Page 54:	 _Kissler concluded, “From…_:  Ibid.
+
+* _An example of…_:  Ernest Mueller, “Business model driven cloud adoption: what NI Is doing in the cloud,” Slideshare.net, June 28, 2011, posted by Ernest Mueller, http://www.slideshare.net/mxyzplk/business-model-driven-cloud-adoption-what-ni-is-doing-in-the-cloud.
+
+
+* Page 55:	 _Although many believe…_:  Unpublished calculation by Gene Kim after the 2014 DevOps Enterprise Summit.
+Indeed, one of… Kersten, IT Revolution, and PwC, 2015 State of DevOps Report.
+
+* Page 56:	 _CSG (2013): In…_:  Prugh, “DOES14: Scott Prugh, CSG DevOps and Lean in Legacy Environments,” Slideshare.net, November 14, 2014, posted by DevOps Enterprise Summit, http://www.slideshare.net/DevOpsEnterpriseSummit/scott-prugh.
+
+* Etsy (2009): In… Rembetsy and McDonnell, “Continuously Deploying Culture [at Etsy].”
+
+* Page 56:	 _The Gartner research…_:  Bernard Golden, “What Gartner’s Bimodal IT Model Means to Enterprise CIOs,” CIO Magazine, January 27, 2015, http://www.cio.com/article/2875803/cio-role/what-gartner-s-bimodal-it-model-means-to-enterprise-cios.html.
+
+* _Systems of record…_:  Ibid.
+* _Systems of engagement…_:  Ibid.
+
+* Page 57:	 _The data from…_:  Kersten, IT Revolution, and PwC, 2015 State of DevOps Report.
+* _Scott Prugh, VP…_:  Scott Prugh, personal correspondence with Gene Kim, 2014.
+* _Geoffrey A. Moore…_:  Geoffrey A. Moore and Regis McKenna, Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers (New York: HarperCollins, 2009), 11.
+
+* Page 58:	 _Big bang, top-down…_:  Linda Tucci, “Four Pillars of PayPal’s ‘Big Bang’ Agile Transformation,” TechTarget, August 2014, http://searchcio.techtarget.com/feature/Four-pillars-of-PayPals-big-bang-Agile-transformation.
+
+* Page 59:	 _The following list…_:  “Creating High Velocity Organizations,” description of course by Roberto Fernandez and Steve Spear, MIT Sloan Executive Education website, accessed May 30, 2016, http://executive.mit.edu/openenrollment/program/organizational-development-high-velocity-organizations.
+
+* But as Ron van Kemenade… Ron Van Kemande, “Nothing Beats Engineering Talent: The Agile Transformation at ING,” presentation at the DevOps Enterprise Summit, London, UK, June 30-July 1, 2016.
+
+* Page 60:	 _Peter Drucker, a…_:  Leigh Buchanan, “The Wisdom of Peter Drucker from A to Z,” Inc., November 19, 2009, http://www.inc.com/articles/2009/11/drucker.html.
+
+=== Chapter 6: Understanding the Work in Our Value Stream, Making it Visible, and Expanding it Across the Organization
+
+* Page 61:	 _Over the years…_:  Kissler, “DOES14 Courtney Kissler Nordstrom.”
+
+* _Kissler explained:…_: Ross Clanton and Michael Ducy, interview of Courtney Kissler and Jason Josephy, “Continuous Improvement at Nordstrom,” The Goat Farm, podcast audio, June 25, 2015, http://goatcan.do/2015/06/25/the-goat-farm-episode-7-continuous-improvement-at-nordstrom/.
+
+* Page 62:	 _She said proudly…_:  Ibid.
+
+* Page 63:	 _Technology executives or…_:  Brian Maskell, “What Does This Guy Do? Role of Value Stream Manager,” Maskell, July 3, 2015, http://blog.maskell.com/?p=2106http://www.lean.org/common/display/?o=221.
+
+* Page 64:	 _Damon Edwards observed…_:  Damon Edwards, “DevOps Kaizen: Find and Fix What Is Really Behind Your Problems,” Slideshare.net, posted by dev2ops, May 4, 2015, http://www.slideshare.net/dev2ops/dev-ops-kaizen-damon-edwards.
+
+* Page 66:	 _In their book …_: Vijay Govindarajan and Chris Trimble, The Other Side of Innovation: Solving the Execution Challenge (Boston, MA: Harvard Business Review, 2010) Kindle edition.
+
+* Page 67:	 _Based on their…_: Ibid., Part I.
+* Page 70:	 _After the near-death…_:  Marty Cagan, Inspired: How to Create Products Customers Love (Saratoga, CA: SVPG Press, 2008), 12.
+* _Cagan notes that…_:  Ibid.
+
+* Page 71:	 _Six months after…_:  Ashlee Vance, “LinkedIn: A Story About Silicon Valley’s Possibly Unhealthy Need for Speed,” Bloomberg, April 30, 2013, http://www.bloomberg.com/bw/articles/2013-04-29/linkedin-a-story-about-silicon-valleys-possibly-unhealthy-need-for-speed.
+
+* _LinkedIn was created…_:  “LinkedIn started back in 2003 — Scaling LinkedIn A Brief History,” Slideshare.net, posted by Josh Clemm, November 9, 2015, http://www.slideshare.net/joshclemm/how-linkedin-scaled-a-brief-history/3-LinkedIn_started_back_in_2003.
+
+* _One year later…_:  Jonas Klit Nielsen, “8 Years with LinkedIn – Looking at the Growth [Infographic],” MindJumpers.com, May 10, 2011, http://www.mindjumpers.com/blog/2011/05/linkedin-growth-infographic/.
+
+* _By November 2015…_:   “LinkedIn started back in 2003,” Slideshare.net.
+
+* _The problem was…_:  “From a Monolith to Microservices + REST: The Evolution of LinkedIn’s Architecture,” Slideshare.net, posted by Karan Parikh, November 6, 2014, http://www.slideshare.net/parikhk/restli-and-deco.
+
+* _Josh Clemm, a…_:  “LinkedIn started back in 2003,” Slideshare.net.
+
+* Page 72:	 _In 2013, journalist…_:  Vance, “LinkedIn: A Story About,” Bloomberg.
+
+* _Scott launched Operation…_:  “How I Structured Engineering Teams at LinkedIn and AdMob for Success,” First Round Review, 2015, http:// firstround.com/review/how-i-structured-engineering-teams-at-linkedin-and-admob-for-success/.
+
+* _Scott described one…_:  Ashlee Vance, “Inside Operation InVersion, the Code Freeze that Saved LinkedIn,” Bloomberg, April 11, 2013, http://www.bloomberg.com/news/articles/2013-04-10/inside-operation-inversion-the-code-freeze-that-saved-linkedin.
+
+* _However, Vance described…_:  Vance, “LinkedIn: A Story About,” Bloomberg.
+* _As Josh Clemm…_:  “LinkedIn started back in 2003,” Slideshare.net.
+* _Kevin Scott stated…_:  “How I Structured Engineering Teams,” First Round Review.
+* Page 73:	 _As Christopher Little…_:  Christopher Little, personal correspondence with Gene Kim, 2011.
+* Page 74:	 _As Ryan Martens…_:  Ryan Martens, personal correspondence with Gene Kim, 2013.
+
+=== Chapter 7: How to Design Our Organization and Architecture with Conway’s Law in Mind
+
+* Page 77:		_He observed, “After…_: Dr. Melvin E. Conway, “How Do Committees Invent?” MelConway.com,  http://www.melconway.com/research/committees.html, previously published in Datamation, April 1968.
+These observations led… Ibid.
+* Page 77:	 _Eric S. Raymond, author…_:  Eric S. Raymond, “Conway’s Law,” catb. org, accessed May 31, 2016, http://catb.org/~esr/jargon/.
+* Page 78:	 _Etsy’s DevOps journey…_:  Sarah Buhr, “Etsy Closes Up 86 Percent on First Day of Trading,” Tech Crunch, April 16, 2015, http://techcrunch.com/2015/04/16/etsy-stock-surges-86-percent-at-close-of-first-day-of-trading-to-30-per-share/.
+* _As Ross Snyder…_:  “Scaling Etsy: What Went Wrong, What Went Right,” Slideshare.net, posted by Ross Snyder, October 5, 2011, http://www.slideshare.net/beamrider9/scaling-etsy-what-went-wrong-what-went-right.
+* _As Snyder observed…_:  Ibid.
+* _In other words…_:  Sean Gallagher, “When ‘Clever’ Goes Wrong: How Etsy Overcame Poor Architectural Choices,” Arstechnica, October 3, 2011, http://arstechnica.com/business/2011/10/when-clever-goes-wrong-how-etsy-overcame-poor-architectural-choices/.
+
+* _Snyder explained that…_:  “Scaling Etsy” Slideshare.net.
+* Page 79:	 _Etsy initially had…_:  Ibid.
+* _In the spring…_:  Ibid.
+* _As Snyder described…_:  Ross Snyder, “Surge 2011—Scaling Etsy: What Went Wrong, What Went Right,” YouTube video, posted by Surge Conference, December 23, 2011, https://www.youtube.com/watch?v=eenrfm50mXw.
+* Page 80:	 _As Snyder said…_:  Ibid.
+* Sprouter was one… “Continuously Deploying Culture: Scaling Culture at Etsy Velocity Europe 2012,” Slideshare.net, posted by Patrick McDonnell, October 4, 2012, http://www.slideshare.net/mcdonnps/continuously-deploying-culture-scaling-culture-at-etsy-14588485.
+* _They are defined…_:  “Creating High Velocity Organizations,” description of course by Roberto Fernandez and Steven Spear.
+* Page 82:		Adrian Cockcroft remarked… Adrian Cockcroft, personal correspondence with Gene Kim, 2014.
+* Page 84:	 _In the Lean…_:  Spear, The High-Velocity Edge, chap. 8.
+* _As Mike Rother…_:  Rother, Toyota Kata, 250.
+
+* _Reflecting on shared…_:  “DOES15 Jody Mulkey DevOps in the Enterprise: A Transformation Journey,” YouTube video, 28:22, posted by DevOps Enterprise Summit, November 5, 2015, https://www.youtube.com/watch?v=USYrDaPEFtM.
+
+* Page 85:	 _He continued, “The…_:  Ibid.
+* _Pedro Canahuati, their…_:  Pedro Canahuati, “Growing from the Few to the Many: Scaling the Operations Organization at Facebook,” InfoQ, December 16, 2013, http://www.infoq.com/presentations/scaling-operations-facebook.
+
+* _When departments over-specialize…_:  Spear, The High-Velocity Edge, chap. 1.
+* Page 86:	 _Scott Prugh writes…_:  Scott Prugh, “Continuous Delivery,” Scaled Agile Framework, updated February 14, 2013, http://www.scaledagileframework.com/continuous-delivery/. 
+* _“By cross-training…_:  Ibid.
+* _“Traditional managers will…_:  Ibid.
+* Page 87:	 _Furthermore, as Prugh…_:  Ibid.
+* _When we value…_:  Dr. Carol Dweck, “Carol Dweck Revisits the ‘Growth Mindset,’” Education Week, September 22, 2015, http:// www.edweek.org/ew/articles/2015/09/23/carol-dweck-revisits-the-growth-mindset.html.
+
+* _As Jason Cox…_:  Jason Cox, “Disney DevOps: To Infinity and Beyond,” presentation at DevOps Enterprise Summit 2014, San Francisco, CA, October 2014.
+* Page 88:	 As John Lauderbach… John Lauderbach, personal conversation with Gene Kim, 2001.
+* Page 89:	 _These properties are…_:  Tony Mauro, “Adopting Microservices at Netflix: Lessons for Architectural Design,” NGINX, February 19, 2015, https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/.; 
+
+* Adam Wiggins, “The Twelve-Factor App,” 12Factor.net, January 30, 2012, http://12factor.net/.
+* Page 90:	 _Randy Shoup, former…_:  “Exploring the Uncharted Territory of Microservices,” YouTube video, 56:50, posted by XebiaLabs, Inc., February 20, 2015, https://www.youtube.com/watch?v=MRa21icSIQk.
+* Page 91:	 _Amazon CTO Werner…_:  Larry Dignan, “Little Things Add Up,”
+Baseline, October 19, 2005, http://www.baselinemag.com/c/a/Projects-Management/Profiles-Lessons-From-the-Leaders-in-the-iBaselinei500/3.
+* _Target is the…_:  Heather Mickman and Ross Clanton, “DOES15
+* Heather Mickman & Ross Clanton (Re)building an Engineering Culture: DevOps at Target,” YouTube video, 33:39, posted by DevOps Enterprise Summit, November 5, 2015, https://www.youtube.com/watch?v=7s-VbB1fG5o.
+* _As Mickman described…_:  Ibid.
+* Page 92:	 _In an attempt… Ibid. Because our team… Ibid. In the following…_:  Ibid.
+* Page 93:	 _These changes have…_:  Ibid.
+* _The API Enablement…_:  Ibid.
+
+=== Chapter 8: How to Get Great Outcomes by Integrating Operations into the Daily Work of Development
+
+* Page 95:		_At Big Fish…_:  “Big Fish Celebrates 11th Consecutive Year of Record Growth,” BigFishGames.com, January 28, 2014, http://pressroom.bigfishgames.com/2014-01-28-Big-Fish-Celebrates-11th-Consecutive-Year-of-Record-Growth.
+* Page 96:	 _He observed that…_: Paul Farrall, personal correspondence with Gene Kim, January 2015.
+* _Farrall defined two…_:  Ibid., 2014.
+* _He concludes, “The…_:  Ibid.
+* Page 97:	 _Ernest Mueller observed…_:  Ernest Mueller, personal correspondence with Gene Kim, 2014.
+* _As Damon Edwards…_: Edwards, “DevOps Kaizen.”
+* Page 98:	 _Dianne Marsh, Director…_:  “Dianne Marsh ‘Introducing Change while Preserving Engineering Velocity,” YouTube video, 17:37, posted by Flowcon, November 11, 2014, https://www.youtube.com/watch?v=eW3ZxY67fnc.
+* Page 99:	 _Jason Cox said…_:  Jason Cox, “Disney DevOps.”
+* Page 100:	 _At Etsy, this…_:  “devopsdays Minneapolis 2015 Katherine Daniels
+DevOps: The Missing Pieces,” YouTube video, 33:26, posted by DevOps Minneapolis, July 13, 2015, https://www.youtube.com/watch?v=LNJkVw93yTU.
+* Page 102:		_As Ernest Mueller…_:  Ernest Mueller, personal correspondence with Gene Kim, 2015.
+* _Scrum is an agile…_: Hirotaka Takeuchi and Ikujiro Nonaka, “New Product Development Game,” Harvard Business Review (January 1986): 137-146.
+
+== Part III: The First Way: The Technical Practices Of Flow 
+
+
+=== Chapter 9: Create the Foundations of Our Deployment Pipeline
+
+* Page 111:	 _In her presentation…_:  Em Campbell-Pretty, “DOES14 Em CampbellPretty How a Business Exec Led Agile, Lead, CI/CD,” YouTube video, 29:47, posted by DevOps Enterprise Summit, April 20, 2014, https://www.youtube.com/watch?v=-4pIMMTbtwE.
+* _Campbell-Pretty became…_:  Ibid.
+* Page 112:	 _They created a…_:  Ibid.
+* _Campbell-Pretty observed…_:  Ibid.
+* _Camplbell-Pretty described…_:  Ibid.
+* Page 115:		_The first version…_:  “Version Control History,” PlasticSCM.com, accessed May 31, 2016, https://www.plasticscm.com/version-control-history.html.
+* _A version control…_:  Jennifer Davis and Katherine Daniels, Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale (Sebastopol, CA: O’Reilly Media, 2016), 37.
+
+* Page 118:		_Bill Baker, a…_:  Simon Sharwood, “Are Your Servers PETS or CATTLE?,” The Register, March 18 2013, http://www.theregister.co.uk/2013/03/18/servers_pets_or_cattle_cern/.
+* Page 118:	 _At Netflix, the…_:  Jason Chan, “OWASP AppSecUSA 2012: Real World Cloud Application Security,” YouTube video, 37:45, posted by Christiaan008, December 10, 2012, https://www.youtube.com/watch?v=daNA0jXDvYk.
+* Page 119:	 _The latter pattern…_:  Chad Fowler, “Trash Your Servers and Burn Your Code: Immutable Infrastructure and Disposable Components,” ChadFowler.com, June 23, 2013, http://chadfowler.com/2013/06/23/immutable-deployments.html.
+* _The entire application…_:  John Willis, “Docker and the Three Ways of DevOps Part 1: The First Way—Systems Thinking,” Docker, May 26, 2015, https://blog.docker.com/2015/05/docker-three-ways-devops/.
+
+=== Chapter 10: Enable Fast and Reliable Automated Testing 
+
+
+* Page 123:	 _Gary Gruver, former…_:  Gary Gruver, personal correspondence with Gene Kim, 2014.
+* _They had problems…_:  “DOES15 Mike Bland Pain Is Over, If You Want It,” Slideshare.net, posted by Gene Kim, November 18, 2015, http://www.slideshare.net/ITRevolution/does15-mike-bland-pain-is-over-if-you-want-it-55236521.
+* Page 124:	 _Bland describes how… Ibid. Bland described that… Ibid. As Bland describes… Ibid. As Bland notes…_:  Ibid.
+* Page 125:	 _Over the next…_:  Ibid.
+* _Eran Messeri, an…_:  Eran Messeri, “What Goes Wrong When Thousands of Engineers Share the Same Continuous Build?,” presentation at the GOTO Conference, Aarhus, Denmark, October 2, 2013.
+* _Messeri explains, “There…_:  Ibid.
+* _All their code…_:  Ibid.
+* Page 126:	 _Some of the…_: Ibid.
+* Page 132:		_Martin Fowler described…_:  Martin Fowler, “TestPyramid,” MartinFowler.com, May 1, 2012, http://martinfowler.com/bliki/TestPyramid.html.
+* Page 134:	 _This technique was…_:  Martin Fowler, “Test Driven Development,” MartinFowler.com, March 5, 2005, http://martinfowler.com/bliki/TestDrivenDevelopment.html.
+* Page 135:	 _Nachi Nagappan, E. Michael…_:  Nachiappan Nagappan, E. Michael Maximilien, Thirumalesh Bhat, and Laurie Williams, “Realizing quality improvement through test driven development: results and experiences of four industrial teams,” Empir Software Engineering, 13, (2008): 289-302, http://research.microsoft.com/en-us/groups/ese/nagappan_tdd.pdf.
+
+* _In her 2013…_:  Elisabeth Hendrickson, “On the Care and Feeding of Feedback Cycles,” Slideshare.net, posted by Elisabeth Hendrickson, November 1, 2013, http://www.slideshare.net/ehendrickson/care-and-feeding-of-feedback-cycles.
+* _However, merely automating…_:  “Decreasing false positives in automated testing,” Slideshare.net, posted by Sauce Labs, March 24,  2015, http://www.slideshare.net/saucelabs/decreasing-false-positives-in-automated-testing.; Martin Fowler, “Eradicating Non-determinism in Tests,” MartinFowler.com, April 14, 2011, http://martinfowler.com/articles/nonDeterminism.html.
+
+* Page 136:	 _As Gary Gruver…_:  Gary Gruver, “DOES14 Gary Gruver Macy’s
+Transforming Traditional Enterprise Software Development Processes,” YouTube video, 27:24, posted by DevOps Enterprise Summit 2014, October 29, 2014, https://www.youtube.com/watch?v=-HSSGiYXA7U.
+
+* Page 139:		_Randy Shoup, former…_:  Randy Shoup, “The Virtuous Cycle of Velocity: What I Learned About Going Fast at eBay and Google by Randy Shoup,” YouTube video, 30:05, posted by Flowcon, December 26, 2013, https://www.youtube.com/watch?v=EwLBoRyXTOI.
+
+* _This is sometimes…_:  David West, “Water scrum-fall is-reality_of_ agile_for_most,” Slideshare.net, posted by harsoft, April 22, 2013, http://www.slideshare.net/harsoft/water-scrumfall-isrealityofagileformost.
+
+=== Chapter 11: Enable and Practice Continuous Integration 
+
+* Gene Kim, “The Amazing DevOps Transformation of the HP LaserJet Firmware Team (Gary Gruver),” ITRevolution.com, 2013, http://itrevolution.com/the-amazing-devops-transformation-of-the-hp-laserjet-firmware-team-gary-gruver/.
+* Gary Gruver and Tommy Mouser, Leading the Transformation: Applying Agile and DevOps Principles at Scale (Portland, OR: IT Revolution Press), 60.
+
+* _Gruver observed, “Without…_:  Kim, “The Amazing DevOps Transformation ” ITRevolution.com.
+* Page 147:	 _Jeff Atwood, founder…_: Jeff Atwood, “Software Branching and Parallel Universes,” CodingHorror.com, October 2, 2007, http://blog.codinghorror.com/software-branching-and-parallel-universes/.
+* 148 _This is how…_: Ward Cunningham, “Ward Explains Debt Metaphor,” c2.com, 2011, http://c2.com/cgi/wiki?WardExplainsDebtMetaphor.
+* Page 149:	 _Ernest Mueller, who…_:  Ernest Mueller, “2012: A Release Odyssey,” Slideshare.net, posted by Ernest Mueller, March 12, 2014, http://www.slideshare.net/mxyzplk/2012-a-release-odyssey.
+
+* _At that time…_:  “Bazaarvoice, Inc. Announces Its Financial Results for the Fourth Fiscal Quarter and Fiscal Year Ended April 30, 2012,” BasaarVoice.com, June 6, 2012, http://investors.bazaarvoice.com/releasedetail.cfm?ReleaseID=680964.
+
+* Page 150:	 _Mueller observed, “It…_:  Ernest Mueller, “DOES15 Ernest Mueller
+DevOps Transformations At National Instruments and…,” YouTube video, 34:14, posted by DevOps Enterprise Summit, November 5, 2015, https://www.youtube.com/watch?v=6Ry40h1UAyE.
+
+* _“By running these…_:  Ibid.
+* Page 151:	 _Mueller further described…_:  Ibid.
+* _However, the data…_: Kersten, IT Revolution, and PwC, 2015 State of DevOps Report.
+
+=== Chapter 12: Automate and Enable Low-Risk Releases 
+
+* Page 153:		_In 2012, Rossi…_:  Chuck Rossi, “Release engineering and push karma: Chuck Rossi,” post on Chuck Rossi’s Facebook page, April 5, 2012, https://www.facebook.com/notes/facebook-engineering/release-engineering-and-push
+-karma-chuck-rossi/10150660826788920.
+
+* _Just prior to…_:  Ryan Paul, “Exclusive: a behind-the-scenes look at Facebook release engineering,” Ars Technica, April 5, 2012, http://arstechnica.com/business/2012/04/exclusive-a-behind-the-scenes-look-at-facebook-release-engineering/1/.
+* _Rossi continued, “If…_:  Chuck Rossi, “Release engineering and push karma.”
+* The Facebook frontend… Paul, “Exclusive: a behind-the-scenes look at Facebook release engineering,” Ars Technica.
+* _He explained that…_:  Chuck Rossi, “Ship early and ship twice as often,” post on Chuck Rossi’s Facebook page, August 3, 2012, https://www.facebook.com/notes/facebook-engineering/ship-early-and-ship-twice-as-often/10150985860363920.
+* Page 154:		Kent Beck, the.. Kent Beck, “Slow Deployment Causes Meetings,” post on Kent Beck’s Facebook page, November 19, 2015), https://www.facebook.com/notes/kent-beck/slow-deployment-causes-meetings/1055427371156793?_rdr=p.
+
+* Page 157:	 _Scott Prugh, their…_:  Prugh, “DOES14: Scott Prugh, CSG DevOps and Lean in Legacy Environments.”
+* _Prugh observed, “It…_:  Ibid.
+* Page 158:	 _Prugh writes, “We…_:  Ibid.
+* _Prugh also observes:…_: Ibid.
+* _In their experiments…_:  Puppet Labs and IT Revolution Press, 2013 State of DevOps Report (Portland, OR: Puppet Labs, 2013), http://www.exin-library.com/Player/eKnowledge/2013-state-of-devops-report.pdf.
+* _Prugh reported that…_:  Scott Prugh and Erica Morrison, “DOES15
+* Scott Prugh & Erica Morrison Conway & Taylor Meet the Strangler (v2.0),” YouTube video, 29:39, posted by DevOps Enterprise Summit, November 5, 2015, https://www.youtube.com/watch?v=tKdIHCL0DUg.
+* Page 159:	 _Consider the following…_:  Tim Tischler, personal conversation with Gene Kim, FlowCon 2013.
+In practice, the… Puppet Labs and IT Revolution Press, 2013 State of DevOps Report.
+* Page 162:	 _The deployment process…_:  Chad Dickerson, “Optimizing for developer happiness,” CodeAsCraft.com, June 6, 2011, https://codeascraft.com/2011/06/06/optimizing-for-developer-happiness/.
+
+* _As Noah Sussman…_:  Noah Sussman and Laura Beth Denker, “Divide and Conquer,” CodeAsCraft.com, April 20, 2011, https://codeascraft.com/2011/04/20/divide-and-concur/.
+* _Sussman writes, “Through…_:  Ibid.
+* Page 163:	 _If all the tests…_:  Ibid.
+* Once it is an.. Erik Kastner, “Quantum of Deployment,” CodeAsCraft.com, May 20, 2010, https://codeascraft.com/2010/05/20/quantum-of-deployment/.
+
+* Page 168:		_This technique was…_:  Timothy Fitz, “Continuous Deployment at IMVU: Doing the impossible fifty times a day,” TimothyFitz.com, February 10, 2009, http://timothyfitz.com/2009/02/10/continuous-deployment-at-imvu-doing-the-impossible-fifty-times-a-day/.
+
+* _This pattern is…_:  Fitz, “Continuous Deployment,” TimothyFitz.com.; Michael Hrenko, “DOES15 Michael Hrenko DevOps Insured By Blue Shield of California,” YouTube video, 42:24, posted by DevOps Enterprise Summit, November 5, 2015, https://www.youtube.com/watch?v=NlgrOT24UDw.
+
+* Page 172:	 _One sophisticated example…_:  Andrew ‘Boz’ Bosworth, “Building and testing at Facebook,” post on Boz Facebook page, August 8, 2012, https://www.facebook.com/notes/facebook-engineering/building-and-testing-at-facebook/10151004157328920; “Etsy’s Feature flagging API used for operational rampups and A/B testing,” GitHub.com, https://github.com/etsy/feature; “Library for configuration management API,” GitHub.com, https://github.com/Netflix/archaius.
+* Page 173:	 _In 2009, when…_:  John Allspaw, “Convincing management that cooperation and collaboration was worth it,” KitchenSoap.com, January 5, 2012, http://www.kitchensoap.com/2012/01/05/convincing-management-that-cooperation-and-collaboration-was-worth-it/.
+* Page 174:	 _Similarly, as Chuck…_:  Rossi, “Release engineering and push karma.”
+
+* _For nearly a decade…_:  Emil Protalinski, “Facebook passes 1.55B monthly active users and 1.01B daily active users,” Venture Beat, November 4, 2015, http://venturebeat.com/2015/11/04/facebook-passes-1-55b-monthly-active-users-and-1-01-billion-daily-active-users/.
+
+* Page 174:	 _By 2015, Facebook…_:  Ibid.
+* _Eugene Letuchy, an…_: Eugene Letuchy, “Facebook Chat,” post on Eugene Letuchy’s Facebook page, May 3, 2008, http://www.facebook.com/note.php?note_id=14218138919&id=944554719.
+* _Implementing this computationally-intensive…_:  Ibid.
+* Page 175:	 _As Letuchy wrote…_:  Ibid.
+
+=== Chapter 13: Architect for Low-Risk Releases
+
+* _He observes that…_:  Kim, Gruver, Shoup, and Phillips, “Exploring the Uncharted Territory of Microservices.”
+* _He reflects, “Looking…_:  Ibid.
+* _eBay’s architecture went…_:  Shoup, “From Monolith to Microservices.”
+* Page 180:	 _Charles Betz, author…_:  Charles Betz, Architecture and Patterns for IT Service Management, Resource Planning, and Governance: Making Shoes for the Cobbler’s Children (Witham, MA: Morgan Kaufmann, 2011), 300.
+* Page 182:		_As Randy Shoup…_:  Randy Shoup, “From the Monolith to Microservices,” Slideshare.net, posted by Randy Shoup, October 8, 2014, http://www.slideshare.net/RandyShoup/goto-aarhus2014-enterprisearchitecturemicroservices.
+* _Shoup notes, “Organizations…_:  Ibid.
+* _As Randy Shoup observes…_:  Ibid.
+* Page 184:		_One of the most…_:  Werner Vogels, “A Conversation with Werner Vogels,” acmqueque 4, no. 4 (2006): 14-22, http://queue.acm.org/detail.cfm?id=1142065.
+* _Vogel tells Gray…_:  Ibid.
+
+* _Describing the thought…_:  Ibid.
+* _Vogel notes, “The…_:  Ibid.
+* Page 185:		_In 2011, Amazon…_:  John Jenkins, “Velocity 2011: Jon Jenkins, “Velocity Culture,”” YouTube video, 15:13, posted by O’Reilly, June 20, 2011, https://www.youtube.com/watch?v=dxk8b9rSKOo.
+* Page 185:	 _By 2015, they…_:  Ken Exner, “Transforming Software Development,” YouTube video, 40:57, posted by Amazon Web Services, April 10, 2015, https://www.youtube.com/watch?v=YCrhemssYuI&feature=youtu.be.
+* _The term strangler…_:  Martin Fowler, “StranglerApplication,” MartinFowler.com, June 29, 2004, http://www.martinfowler.com/bliki/StranglerApplication.html.
+
+* _When we implement…_:  Boris Lublinsky, “Versioning in SOA,” The Architecture Journal,  April 2007, https://msdn.microsoft.com/en-us/library/bb491124.aspx.
+* Page 186:	 _The strangler application…_:  Paul Hammant, “Introducing Branch by Abstraction,” PaulHammant.com, April 26, 2007, http://paulhammant.com/blog/branch_by_abstraction.html.
+* _An observation from…_:  Martin Fowler, “StranglerApplication,” MartinFowler.com, June 29, 2004, http://www.martinfowler.com/bliki/StranglerApplication.html.
+* _Blackboard Inc., is…_:  Gregory T. Huang, “Blackboard CEO Jay Bhatt on the Global Future of Edtech,” Xconomy, June 2, 2014, http://www.xconomy.com/boston/2014/06/02/blackboard-ceo-jay-bhatt-on-the-global-future-of-edtech/.
+* Page 187:	 _As David Ashman…_:  David Ashman, “DOES14 David Ashman
+* Blackboard Learn Keep Your Head in the Clouds,” YouTube video, 30:43, posted by DevOps Enterprise Summit 2014, October 28, 2014, https://www.youtube.com/watch?v=SSmixnMpsI4.
+* _In 2010, Ashman…_:  Ibid.
+* _How this started…_: David Ashman, personal correspondence with Gene Kim, 2014.
+* _Ashman noted. “To…_:  Ibid.
+* Page 188:	 _“In fact,” Ashman…_:  Ibid.
+* Page 189:	 _Ashman concluded, “Having…_:  Ibid.
+
+
+== Part IV: The Second Way: The Technical Practices Of Feedback 
+
+=== Chapter 14: Create Telemetry to Enable Seeing and Solving Problems
+
+* Page 195:		_In Operations, we…_:   Kim, Behr, and Spafford, The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps (Eugene, OR: IT Process Institute, 2004), Kindle edition, Introduction.
+* _In contrast, the…_:  Ibid.
+* _In other words…_: Ibid.
+* Page 196:	 _To enable this…_:  “Telemetry,” Wikipedia, last modified May 5, 2016, https://en.wikipedia.org/wiki/Telemetry.
+* _McDonnell described how…_:  Michael Rembetsy and Patrick McDonnell, “Continuously Deploying Culture: Scaling Culture at Etsy Velocity Europe 2012,” Slideshare.net, posted by Patrick McDonnell, October 4, 2012, http://www.slideshare.net/mcdonnps/continuously-deploying-culture-scaling-culture-at-etsy-14588485.
+* _McDonnell explained further…_:  Ibid.
+* By 2011, Etsy… John Allspaw, personal conversation with Gene Kim, 2014.
+* Page 197:	 _As Ian Malpass…_:  Ian Malpass, “Measure Anything, Measure Everything,” CodeAsCraft.com, February 15, 2011, http://codeascraft.com/2011/02/15/measure-anything-measure-everything/.
+* Page 197:	 _One of the findings…_:  Kersten, IT Revolution, and PwC, 2015 State of DevOps Report.
+* _The top two…_:  “2014 State Of DevOps Findings! Velocity Conference,” Slideshare.net, posted by Gene Kim, June 30, 2014, http://www.slideshare.net/realgenekim/2014-state-of-devops-findings-velocity-conference.
+* Page 198:	 _In The Art…_:  James Turnbull, The Art of Monitoring (Seattle, WA: Amazon Digital Services, 2016), Kindle edition, Introduction.
+* Page 200:	 The resulting capability… “Monitorama Please, no more Minutes, Milliseconds, Monoliths or Monitoring Tools,” Slideshare.net, posted by Adrian Cockcroft, May 5, 2014, http://www.slideshare.net/adriancockcroft/monitorama-please-no-more.
+* Page 201:	 _Scott Prugh, Chief…_:  Prugh, “DOES14: Scott Prugh, CSG DevOps and Lean in Legacy Environments.”
+To support these… Brice Figureau, “The 10 Commandments of Logging,” Mastersen’s Blog, January 13, 2013, http://www.masterzen.fr/2013/01/13/the-10-commandments-of-logging/.
+* Page 202:	 _Choosing the right…_:  Dan North, personal correspondence with Gene Kim, 2016.
+To help ensure… Anton Chuvakin, “LogLogic/Chuvakin Log Checklist,” republished with permission, 2008, http://juliusdavies.ca/logging/llclc.html.
+* Page 203:	 In 2004, Kim… Kim, Behr, and Spafford, The Visible Ops Handbook, Introduction.
+* Page 204:	 _This was the…_:  Dan North, “Ops and Operability,” SpeakerDeck.com, February 25, 2016, https://speakerdeck.com/tastapod/ops-and-operability.
+* _As John Allspaw…_:  John Allspaw, personal correspondence with Gene Kim, 2011.
+* Page 206:	 _This is often…_:  “Information Radiators,” AgileAlliance.com, accessed May 31, 2016, https://www.agilealliance.org/glossary/incremental-radiators/.
+* Page 207:	 Although there may.. Ernest Mueller, personal correspondence with Gene Kim, 2014.
+Prachi Gupta, Director… Prachi Gupta, “Visualizing LinkedIn’s Site Performance,” LinkedIn Engineering blog, June 13, 2011, https://engineering.linkedin.com/25/visualizing-linkedins-site-performance.
+* Page 208:	 _Thus began Eric…_:  Eric Wong, “Eric the Intern: the Origin of InGraphs,” LinkedIn, June 30, 2011, http://engineering.linkedin.com/32/eric-intern-origin-ingraphs.
+* _Wong wrote, “To…_:  Ibid.
+* _At the time…_:  Ibid.
+* _In writing about…_:  Gupta, “Visualizing LinkedIn’s Site Performance.”
+* Page 210:		_Ed Blankenship, Senior…_:  Ed Blankenship, personal correspondence with Gene Kim, 2016.
+* Page 212:		_However, increasingly these…_:  Mike Burrows, “The Chubby lock service for loosely-coupled distributed systems,” OSDI’06: Seventh Symposium on Operating System Design and Implementation, November 2006, http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf.
+* Page 212:	 _Consul may be…_:  Jeff Lindsay, “Consul Service Discovery with Docker,” Progrium.com, August 20, 2014, http://progrium.com/blog/2014/08/20/consul-service-discovery-with-docker.
+* Page 213:	 _As Jody Mulkey…_:  Jody Mulkey, “DOES15 Jody Mulkey DevOps in the Enterprise: A Transformation Journey,” YouTube video, 28:22, posted by DevOps Enterprise Summit, November 5, 2015, https://www.youtube.com/watchv=USYrDaPEFtM.
+
+=== Chapter 15: Analyze Telemetry to Better Anticipate Problems and Achieve Goals
+
+* Page 215:		In 2015, Netflix… Netflix Letter to Shareholders, January 19, 2016, http://files.shareholder.com/downloads/NFLX/2432188684x0x870685/C6213FF9-5498-4084-A0FF-74363CEE35A1/Q4_15_Letter_to_Shareholders_-_COMBINED.pdf.
+* _Roy Rapoport describes…_:  Roy Rapoport, personal correspondence with Gene Kim, 2014.
+* _One of the statistical…_:  Victoria Hodge and Jim Austin, “A Survey of Outlier Detection Methodologies,” Artificial Intelligence Review 22, no. 2 (October 2004): 85-126, http://www.geo.upm.es/postgrado/CarlosLopez/papers/Hodge+Austin_OutlierDetection_AIRE381.pdf.
+* Rapoport explains that.. Roy Rapoport, personal correspondence with Gene Kim, 2014.
+* Page 216:		_Rapoport continues, “We…_:  Ibid.
+* _Rapoport states that…_:  Ibid.
+* _As John Vincent…_: Toufic Boubez, “Simple math for anomaly detection toufic boubez metafor software monitorama pdx 2014-05-05,” Slideshare.net, posted by tboubez, May 6, 2014, http://www.slideshare.net/tboubez/simple-math-for-anomaly-detection-toufic-boubez-metafor-software-monitorama-pdx-20140505.
+* Page 218:	 _Tom Limoncelli, co-author…_:  Tom Limoncelli, “Stop monitoring whether or not your service is up!,” EverythingSysAdmin.com, November 27, 2013, http://everythingsysadmin.com/2013/11/stop-monitoring-if-service-is-up.html.
+* Page 219:	 _As Dr. Toufic…_:  Toufic Boubez, “Simple math for anomaly detection toufic boubez metafor software monitorama pdx 2014-05-05,” Slideshare.net, posted by tboubez, May 6, 2014, http://www.slideshare.net/tboubez/simple-math-for-anomaly-detection-toufic-boubez-metafor-software-monitorama-pdx
+-20140505.
+* Page 220:	 _Dr. Nicole Forsgren…_: Dr. Nicole Forsgren, personal correspondence with Gene Kim,  2015.
+* Page 221:	 _Scryer works by…_:  Daniel Jacobson, Danny Yuan, and Neeraj Joshi, “Scryer: Netflix’s Predictive Auto Scaling Engine,” The Netflix Tech Blog, November 5, 2013, http://techblog.netflix.com/2013/11
+/scryer-netflixs-predictive-auto-scaling.html.
+* Page 222:	 _These techniques are…_:  Varun Chandola, Arindam Banerjee, and Vipin Kumar, “Anomaly detection: A survey,” ACM Computing Surveys 41, no. 3 (July 2009): article no. 15, http://doi.acm.org/10.1145/1541880.1541882.
+* _Tarun Reddy, VP…_:  Tarun Reddy, personal interview with Gene Kim, Rally headquarters, Boulder, CO, 2014.
+* Page 224:	 _At Monitorama in 2014…_:  “Kolmogorov-Smirnov Test,” Wikipedia, last modified May 19, 2016, http://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test.
+* Page 225:	 _Even saying Kilmogorov-Smirnov…_: ”Simple math for anomaly detection toufic boubez metafor software monitorama pdx 2014-05-05,” Slideshare.net, posted by tboubez, May 6, 2014, http://www.slideshare.net/tboubez/simple-math-for-anomaly-detection-toufic-boubez-metafor-software-monitorama-pdx-20140505.
+
+=== Chapter 16: Enable Feedback So Development and Operations Can Safely Deploy Code 
+
+* Page 227:	 _In 2006, Nick…_:  Mark Walsh, “Ad Firms Right Media, AdInterax Sell To Yahoo,” MediaPost, October 18, 2006, http://www.mediapost.com/publications/article/49779/ad-firms-right-media-adinterax-sell-to-yahoo.html?edition=.
+* _Galbreath described the…_:  Nick Galbreath, personal conversation with Gene, 2013.
+* _However, Galbreath observed…_:  Nick Galbreath, “Continuous Deployment The New #1 Security Feature, from BSildesLA 2012,” Slideshare.net, posted by Nick Galbreath, Aug 16, 2012, http://www.slideshare.net/nickgsuperstar/continuous-deployment-the-new-1-security-feature.
+* _After observing many…_:  Ibid.
+* Page 228:	 _Galbreath observes that…_:  Ibid.
+* Page 231:	 As Patrick Lightbody… “Volocity 2011: Patrick Lightbody, ‘From Inception to Acquisition,’” YouTube video, 15:28, posted by O’Reilly, June 17, 2011, https://www.youtube.com/watch?v=ShmPod8JecQ.
+* Page 232:	 _As Arup Chakrabarti…_:  Arup Chakrabarti, “Common Ops Mistakes,” presentation at Heavy Bit Industries, June 3, 2014, http://www.heavybit.com/library/video/common-ops-mistakes/
+* Page 233:	 _More recently, Jeff…_:  ”From Design Thinking to DevOps and Back Again: Unifying Design & Operations,” Vimeo video, 21:19, posted by William Evans, June 5, 2015, https://vimeo.com/129939230.
+* Page 234:	 As an anonymous… Anonymous, personal conversation with Gene Kim, 2005.
+* Launch guidance and.. Tom Limoncelli, “SRE@Google: Thousands Of DevOps Since 2004,” YouTube video of USENIX Association Talk, NYC, posted by USENIX, 45:57, posted January 12, 2012, http://www.youtube.com/watchv=iIuTnhdTzK0.
+* Page 238:	 _As Treynor Sloss has…_:  Ben Treynor, “Keys to SRE” (presentation, Usenix SREcon14, Santa Clara, CA, May 30, 2014), https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre.
+* _Treynor Sloss has resisted…_:  Ibid.
+* _Even when new…_:  Limoncelli, “SRE@Google.”
+* _Tom Limoncelli noted…_:  Ibid.
+* Page 239:	 _Limoncelli noted, “In…_:  Ibid.
+* _Furthemore, Limoncelli observed…_:  Tom Limoncelli, personal correspondence with Gene Kim, 2016.
+* Page 239:		_Limoncelli explained, “Helping…_: Ibid., 2015.
+
+=== Chapter 17: Integrate Hypothesis-Driven Development and A/B Testing into Our Daily Work
+
+* Page 242:	 _Cook explained that…_:  Scott Cook, “Leadership in an Agile Age: An Interview with Scott Cook,” Intuit.com, April 20, 2011, https://web.archive.org/web/20160205050418/http://network.intuit.com/2011/04/20/leadership-in-the-agile-age/
+* _He continued, “By…_:  Ibid.
+* Page 243:	 _In previous eras…_:  “Direct Marketing,” Wikipedia, last modified May 28, 2016, https://en.wikipedia.org/wiki/Direct_marketing.
+* _Interestingly, it has…_:  Freakonomics, “Fighting Poverty With Actual Evidence: Full Transcript,” Freakonomics.com, November 27, 2013, http://freakonomics.com/2013/11/27/fighting-poverty-with-actual-evidence-full-transcript/.
+* Page 244:	 _Ronny Kohavi, Distinguished…_:  Ron Kohavi, Thomas Crook, and Roger Longbotham, “Online Experimentation at Microsoft,” (paper presented at the Fifteenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Paris, France, 2009), http://www.exp-platform.com/documents/exp_dmcasestudies.pdf.
+* _Kohavi goes on…_: Ibid.
+* Page 246:	 _Barry O’Reilly, co-author…_:  Barry O’Reilly, “How to Implement Hypothesis-Driven Development,” BarryOReilly.com, October 21, 2013,  http://barryoreilly.com/2013/10/21/how-to-implement-hypothesis-driven-development/.
+* _In 2009, Jim…_:  Gene Kim, “Organizational Learning and Competitiveness: Revisiting the “Allspaw/Hammond 10 Deploys Per Day at Flickr” Story,” ITRevolution.com, 2015, http://itrevolution.com/organizational-learning-and-competitiveness-a-different-view-of-the-allspawhammond-10-deploys-per-day-at-flickr-story/.
+* Page 247:	 _Stoneham observes that…_:  Ibid.
+* _He continues, “These…_: Ibid.
+* _Their astounding achievements…_:  Ibid.
+* Page 248:	 _Stoneham concluded, “This…_:  Ibid.
+
+=== Chapter 18: Create Review and Coordination Processes to Increase Quality of Our Current Work
+
+* Page 249:	 _Once a pull…_:  Scott Chacon, “Github Flow,” ScottChacon.com, August   31,   2011,  http://scottchacon.com/2011/08/31/github-flow.html.
+* Page 251:		_For example, in…_:   Jake Douglas, “Deploying at Github,” GitHub.com, August 29, 2012, https://github.com/blog/1241-deploying-at-github.
+* _A fifteen minute…_:  John Allspaw, “Counterfactual Thinking, Rules, and the Knight Capital Accident,” KitchenSoap.com, October 29, 2013, http://www.kitchensoap.com/2013/10/29/counterfactuals-knight-capital/.
+* Page 253:		_One of the core…_:   Bradley Staats and David M. Upton, “Lean Knowledge Work,” Harvard Business Review, October 2011, https://hbr.org/2011/10/lean-knowledge-work.
+* Page 256:	 _As Giary Özil…_:  Giray Özil, Twitter post, February 27, 2013, 10:42 a.m., https://twitter.com/girayozil/status/306836785739210752.
+* Page 257:	 _As noted earlier…_:  Eran Messeri, “What Goes Wrong When Thousands of Engineers Share the Same Continuous Build?,” (2013), http://scribes.tweetscriber.com/realgenekim/206.
+* _In 2010, there…_:  John Thomas and Ashish Kumar, “Welcome to the Google Engineering Tools Blog,” Google Engineering Tools blog, posted May 3, 2011, http://google-engtools.blogspot.com/2011/05/welcome-to-google-engineering-tools.html.
+* _This requires considerable…_:  Ashish Kumar, “Development at the Speed and Scale of Google,” (presentation at QCon, San Francisco, CA, 2010), https://qconsf.com/sf2010/dl/qcon-sanfran-2010/slides/AshishKumar_DevelopingProductsattheSpeedandScaleofGoogle.pdf.
+* Page 258:	 _He said, “I…_:  Randy Shoup, personal correspondence with Gene Kim, 2014.
+* Page 259:	 _Jeff Atwood, one…_:  Jeff Atwood, “Pair Programming vs. Code Reviews,” CodingHorror.com, November 18, 2013, http://blog.codinghorror.com/pair-programming-vs-code-reviews/.
+* Page 260:	 _He continued, “Most…_:  Ibid.
+* _Dr. Laurie Williams performed…_:  “Pair Programming,” ALICE Wiki page, last modified April 4, 2014, http://euler.math.uga.edu/wiki/index.php?title=Pair_programming.
+* _She argues that…_:  Elisabeth Hendrickson, “DOES15 Elisabeth Hendrickson Its All About Feedback,” YouTube video, 34:47, posted by DevOps Enterprise Summit, November 5, 2015, https://www.youtube.com/watch?v=r2BFTXBundQ.
+* Page 261:	 _In her 2015…_:  Ibid.
+* _The problem Hendrickson…_:  Ibid. Worse, skilled developers… Ibid. Hendrickson lamented that… Ibid.
+* Page 262:	 _That was an actual…_:  Ryan Tomayko and Shawn Davenport, personal interview with Gene Kim, 2013.
+* _It is many…_:  Ibid.
+* _Reading through the…_:  Ibid.
+* Page 263:	 _Adrian Cockcroft observed…_:  Adrian Cockcroft, interview by Michael Ducy and Ross Clanton, “Adrian Cockcroft of Battery Ventures – the Goat Farm – Episode 8,” The Goat Farm, podcast audio, July 31, 2015, http://goatcan.do/2015/07/31/adrian-cockcroft-of-battery-ventures-the-goat-farm-episode-8/.
+
+* _Similarly, Dr. Tapabrata Pal…_:  Tapabrata Pal, “DOES15 Tapabrata Pal Banking on Innovation & DevOps,” YouTube video, 32:57, posted by DevOps Enterprise Summit, January 4, 2016, https://www.youtube.com/watch?v=bbWFCKGhxOs.
+* _Jason Cox, Senior…_:  Jason Cox, “Disney DevOps.”
+* _At Target in…_:  Ross Clanton and Heather Mickman, ‘DOES14 Ross Clanton and Heather Mickman DevOps at Target,” YouTube video, 29:20, posted by DevOps Enterprise Summit 2014, October 29, 2014, https://www.youtube.com/watch?v=exrjV9V9vhY.
+* Page 264:	 _“As we went…_:  Ibid.
+* _She added, “I…_:  Ibid.
+
+== Part V:The Third Way: The Technical Practices Of Continual Learning And Experimentation
+
+=== Chapter 19: Enable and Inject Learning into Daily Work
+
+* Page 271:	 _The result is…_:  Spear, The High-Velocity Edge, chap. 1.
+* _“For such an…_:  Ibid., chap. 10.
+* _A striking example…_:  Julianne Pepitone, “Amazon EC2 Outage Downs Reddit, Quora,” CNN Money, April 22, 2011, http://money.cnn.com/2011/04/21/technology/amazon_server_outage.
+* _In January 2013…_:  Timothy Prickett Morgan, “A Rare Peek Into The Massive Scale of AWS,” Enterprise Tech, November 14, 2014, http://www.enterprisetech.com/2014/11/14/rare-peek-massive-scale-aws/.
+* Page 272:	 _However, a Netflix…_:  Adrian Cockcroft, Cory Hicks, and Greg Orzell, “Lessons Netflix Learned from the AWS Outage,” The Netflix Tech Blognetflix-learned-from-aws-outage.html.
+* _They did so…_:  Ibid.
+* Page 273:	 _Dr. Sidney Dekker…_:  Sidney Dekker, Just Culture: Balancing Safety and Accountability (Lund University, Sweden: Ashgate Publishing Company, 2007), 152.
+* _He asserts that…_:  “DevOpsDays Brisbane 2014 Sidney Decker, "System Failure, Human Error: Who’s to Blame?” Vimeo video, 1:07:38, posted by info@devopsdays.org, 2014, https://vimeo.com/102167635.
+* Page 273:		_As John Allspaw…_:  Jenn Webb, interview with John Allspaw, “PostMortems, Sans Finger-Pointing,” The O’Reilly Radar Postcast, podcast audio, August 21, 2014, http://radar.oreilly.com/2014/08/postmortems-sans-finger-pointing-the-oreilly-radar-podcast.html.
+* Page 274:		_Blameless post-mortems, a…_:  John Allspaw, “Blameless PostMortems and a Just Culture,” CodeAsCraft.com, May 22, 2012, http://codeascraft.com/2012/05/22/blameless-postmortems/.
+* Page 276:	 _Ian Malpass, an…_:  Ian Malpass, “DevOpsDays Minneapolis 2014 -Ian Malpass, Fallible humans,” YouTube video, 35:48, posted by DevOps Minneapolis, July 20, 2014, https://www.youtube.com/watch?v=5NY-SrQFrBU.
+* _Dan Milstein, one…_:  Dan Milstein, “Post-Mortems at HubSpot: What I Learned from 250 Whys,” HubSpot, June 1, 2011, http://product.hubspot.com/blog/bid/64771/Post-Mortems-at-HubSpot-What-I-Learned-From-250-Whys.
+* _We may also…_:  “Post-Mortem for February 24, 2010 Outage,” Google App Engine website, March 4, 2010, https://groups.google.com /forum/#!topic/google-appengine/p2QKJ0OSLc8; “Summary of the Amazon DynamoDB Service Disruption and Related Impacts in the US-East Region,” Amazon Web Services website, accessed May 28, 2016, https://aws.amazon.com/message/5467D2/.
+* _This desire to…_:  Bethany Macri, “Morgue: Helping Better Understand Events by Building a Post Mortem Tool Bethany Macri,” Vimeo video, 33:34, posted by info@devopsdays.org, October 18, 2013, http://vimeo.com/77206751.
+* _For example, as…_:  Spear, The High-Velocity Edge, chap. 4.
+* Page 278:	 Dr. Amy C. Edmondson… Amy C. Edmondson, “Strategies for Learning from Failure,” Harvard Business Review, April 2011, https://hbr.org/2011/04/strategies-for-learning-from-failure.
+* Page 279:	 _Dr. Spear summarizes…_:  Ibid.
+* _We now know…_:  Ibid., chap. 3.
+* _However, prior to…_:  Michael Roberto, Richard M.J. Bohmer, and Amy C. Edmondson, “Facing Ambiguous Threats,” Harvard Business Review, November 2006, https://hbr.org/2006/11/facing-ambiguous-threats/ar/1.
+* _They describe how…_:  Ibid.
+* Page 280:	 _They observe, “Firms…_:  Ibid.
+* _The authors conclude…_:  Ibid.
+* _On failures, Roy…_:  Roy Rapoport, personal correspondence with Gene Kim, 2012.
+* _He continues, “I…_:  Ibid.
+* Page 281:	 _He concludes, “DevOps…_:  Ibid.
+* _As Michael Nygard…_:  Michael T. Nygard, Release It!: Design and Deploy Production-Ready Software (Pragmatic Bookshelf: Raleigh, NC, 2007), Kindle edition, Part I.
+* Page 281:	 _An even more…_:  Jeff Barr, “EC2 Maintenance Update,” AWS Blog, September 25, 2014, https://aws.amazon.com/blogs/aws/ec2-maintenance-update/.
+* _As Christos Kalantzis…_:  Bruce Wong and Christos Kalantzis, “A State of Xen Chaos Monkey & Cassandra,” The Netflix Tech Blog, October 2, 2014, http://techblog.netflix.com/2014/10/a-state-of-xen-chaos-monkey-cassandra.html.
+* Page 282:	 _But, Kalantzis continues…_:  Ibid.
+* _As Kalantzis and…_:  Ibid.
+* _Even more surprising…_:  Roy Rapoport, personal correspondence with Gene Kim, 2015.
+* _Specific architectural patterns…_:  Adrian Cockcroft, personal correspondence with Gene Kim, 2012.
+* _In this section…_:  Jesse Robbins, “GameDay: Creating Resiliency Through Destruction LISA11,” Slideshare.net, posted by Jesse Robbins, December 7, 2011, http://www.slideshare.net/jesserobbins/ameday-creating-resiliency-through-destruction.
+* _Robbins defines resilience…_:  Ibid.
+* Page 283:	 _Jesse Robbins observes…_:  Jesse Robbins, Kripa Krishnan, John Allspaw, and Tom Limoncelli, “Resilience Engineering: Learning to Embrace Failure,” amcqueue 10, no. 9 (September 13, 2012): https:// queue.acm.org/detail.cfm?id=2371297.
+* _As Robbins quips…_:  Ibid.
+* _As Robbins describes…_:  Ibid.
+* _Robbins explains, “You…_:  Ibid.
+* Page 284:	 _During that time…_:  “Kripa Krishnan: ‘Learning Continuously From Failures’ at Google,” YouTube video, 21:35, posted by Flowcon, November 11, 2014, https://www.youtube.com/watch?v=KqqS3wgQum0.
+* _Krishnan wrote, “An…_:  Kripa Krishnan, “Weathering the Unexpected,” Communications of the ACM 55, no. 11 (November 2012): 48-52, http://cacm.acm.org/magazines/2012/11/156583-weathering-the-unexpected/abstract.
+* _Some of the learnings…_:  Ibid.
+* Page 285:		_As Peter Senge…_:  Widely attributed to Peter Senge.
+
+=== Chapter 20: Convert Local Discoveries into Global Improvements
+
+* Page 287:	 _As Jesse Newland…_:  Jesse Newland, “ChatOps at GitHub,” SpeakerDeck.com, February 7, 2013, https://speakerdeck.com/jnewland/chatops-at-github.
+* Page 288:	 _As Mark Imbriaco…_:  Mark Imbriaco, personal correspondence with Gene Kim, 2015.
+* _They enabled Hubot…_:  Newland, “ChatOps at GitHub.”
+* Page 289:	 _Hubot often performed…_:  Ibid.
+* Page 289:	 _Newland observes that…_: Ibid.
+* Page 290:	 _Instead of putting…_:  Leon Osterweil, “Software processes are software too,” paper presented at International Conference on Software Engineering, Monterey, CA, 1987, http://www.cs.unibo.it/cianca/wwwpages/ids/letture/Osterweil.pdf.
+* _Justin Arbuckle was…_:  Justin Arbuckle, “What Is ArchOps: Chef Executive Roundtable” (2013).
+* _What resulted was…_:  Ibid.
+* _Arbuckle’s conclusion was…_:  Ibid.
+* Page 291:	 _By 2015, Google…_:  Cade Metz, “Google Is 2 Billion Lines of Code— and It’s All in One Place,” Wired, September 16, 2015, http://www.wired.com/2015/09/google-2-billion-lines-codeand-one-place/.
+* _The Chrome and…_:  Ibid.
+* _Rachel Potvin, a…_:  Ibid.
+* _Furthermore, as Eran…_:  Eran Messeri, “What Goes Wrong When Thousands of Engineers Share the Same Continuous Build?” (2013), http://scribes.tweetscriber.com/realgenekim/206.
+* _As Randy Shoup…_:  Randy Shoup, personal correspondence with Gene Kim, 2014.
+* Page 292:	 _Tom Limoncelli, co-author…_:  Tom Limoncelli, “Yes, you can really work from HEAD,” EverythingSysAdmin.com, March 15, 2014, http://everythingsysadmin.com/2014/03/yes-you-really-can-work-from-head.html.
+* Page 296:		_Tom Limoncelli describes…_:  Tom Limoncelli, “Python is better than Perl6,” EverythingSysAdmin.com, January 10, 2011, http://everythingsysadmin.com/2011/01/python-is-better-than-perl6
+.html.
+* Page 297:	 _Google used C++…_:  “Which programming languages does Google use internally?,” Quora.com forum, accessed May 29, 2016, https:// www.quora.com/Which-programming-languages-does-Google-use-internally.; “When will Google permit languages other than Python, C++, Java and Go to be used for internal projects?,” Quora.com forum, accessed May 29, 2016, https://www.quora.com/When-will-Google-permit-languages-other-than-Python-C-Java-and-Go-to-be-used-for-internal-projects/answer/Neil-Kandalgaonkar.
+* _In a presentation…_:  Ralph Loura, Olivier Jacques, and Rafael Garcia, “DOES15 Ralph Loura, Olivier Jacques, & Rafael Garcia Breaking Traditional IT Paradigms to…,” YouTube video, 31:07, posted by DevOps Enterprise Summit, November 16, 2015, https://www.youtube.com/watch?v=q9nNqqie_sM.
+* _In many organizations…_:  Michael Rembetsy and Patrick McDonnell, “Continuously Deploying Culture: Scaling Culture at Etsy Velocity Europe 2012,” Slideshare.net, posted by Patrick McDonnell, October 4, 2012, http://www.slideshare.net/mcdonnps/continuously-deploying-culture-scaling-culture-at-etsy-14588485.
+* _At that time, Etsy…_:  Ibid.
+* Page 298:	 _Over the next…_:  Ibid.
+* _Similarly, Dan McKinley…_:  Dan McKinley, “Why MongoDB Never Worked Out at Etsy,” McFunley.com, December 26, 2012, http:// mcfunley.com/why-mongodb-never-worked-out-at-etsy.
+
+=== Chapter 21: Reserve Time to Create Organizational Learning and Improvement
+
+* Page 299:	 _One of the…_:  “Kaizen,” Wikipedia, last modified May 12, 2016, https://en.wikipedia.org/wiki/Kaizen.
+* _Dr. Spear explains…_:  Spear, The High-Velocity Edge, chap. 8.
+* _Spear observes that…_:  Ibid.
+* Page 300:	 _Clanton describes, “We…_:  Mickman and Clanton, “(Re)building an Engineering Culture.”
+* _Ravi Pandey, a…_:  Ravi Pandey, personal correspondence with Gene Kim, 2015.
+* _Clanton expands on…_:  Mickman and Clanton, “(Re)building an Engineering Culture.”
+* Page 301:	 _In addition to…_:  Hal Pomeranz, “Queue Inversion Week,” Righteous IT, February 12, 2009, https://righteousit.wordpress.com/2009/02/12/queue-inversion-week/.
+* Page 302:	 _As Dr. Spear…_:  Spear, The High-Velocity Edge, chap. 3.
+* _In an interview with Jessica…_:  Jessica Stillman, “Hack Days: Not Just for Facebookers,” Inc., February 3, 2012, http://www.inc.com/jessica-stillman/hack-days-not-just-for-facebookers.html.
+* _In 2008, Facebook…_:  AP, “Number of active users at Facebook over the years,” Yahoo! News, May 1, 2013, https://www.yahoo.com/news/number-active-users-facebook-over-230449748.html?ref=gs.
+* _During a hack…_:  Haiping Zhao, “HipHop for PHP: Move Fast,” post on Haiping Zhao’s Facebook page, February 2, 2010, https://www.facebook.com/notes/facebook-engineering/hiphop-for-phpmove-fast/280583813919.
+* _In an interview with Cade…_:  Cade Metz, “How Three Guys Rebuilt the Foundation of Facebook,” Wired, June 10, 2013, http://www.wired.com/wiredenterprise/2013/06/facebook-hhvm-saga/all/.
+* Page 303:	 _Steve Farley, VP…_:  Steve Farley, personal correspondence with Gene Kim, January 5, 2016.
+* _Karthik Gaekwad, who…_:  “Agile 2013 Talk: How DevOps Change Everything,” Slideshare.net, posted by Karthik Gaekwad, August 7, 2013, http://www.slideshare.net/karthequian/howdevopschangeseverythingagile2013karthikgaekwad/.
+* Page 304:	 _As Glenn O’Donnell…_:  Glenn O’Donnell, “DOES14 Glenn O’Donnell, Forrester, "Modern Services Demand a DevOps Culture Beyond Apps,” YouTube video, 12:20, posted by DevOps Enterprise Summit 2014, November 5, 2014, https://www.youtube.com/watch?v=pvPWKuO4_48.
+* Page 305:	 _As of 2014…_:  Nationwide, 2014 Annual Report, https://www.nationwide.com/about-us/nationwide-annual-report-2014.jsp.
+* _Steve Farley, VP…_:  Steve Farley, personal correspondence with Gene Kim, 2016.
+* Page 305:		_Capital One, one…_:  “DOES15 Tapabrata Pal Banking on Innovation & DevOps,” YouTube video, 32:57, posted by DevOps Enterprise Summit, January 4, 2016, https://www.youtube.com/watch?v=bbWFCKGhxOs.
+* _Dr. Tapabrata Pal…_:  Tapabrata Pal, personal correspondence with Gene Kim, 2015.
+* _Target is the…_:  “Corporate Fact Sheet,” Target company website, accessed June 9, 2016, https://corporate.target.com/press/corporate.
+* _Incidentally, the first…_:  Evelijn Van Leeuwen and Kris Buytaert, “DOES15 Evelijn Van Leeuwen and Kris Buytaert Turning Around the Containership,” YouTube video, 30:28, posted by DevOps Enterprise Summit, December 21, 2015, https://www.youtube.com/watch?v=0GId4AMKvPc.
+* Page 306:	 _Clanton describes, “2015…_:  Mickman and Clanton, “(Re)building an Engineering Culture.”
+* _At Capital One…_:  “DOES15 Tapabrata Pal Banking on Innovation & DevOps,” YouTube video, 32:57, posted by DevOps Enterprise Summit, January 4, 2016, https://www.youtube.com/watch?v=bbWFCKGhxOs.
+* _Bland explains that…_: Bland, “DOES15 Mike Bland Pain Is Over, If You Want It.”
+* _Even though they…_:  Ibid. 
+* _They used several…_:  Ibid. 
+* _Bland described, “The…_:  Ibid. 
+* _Bland continues, “One …_:  Ibid.
+* Page 307:	 _As Bland describes …_:  Ibid. 
+* _Bland continues, “It …_:  Ibid. 
+* _He continues, “The …_:  Ibid.
+* _Bland describes fixits…_:  Mike Bland, “Fixits, or I Am the Walrus,” Mike-Bland.com, October 4, 2011, https://mike-bland.com/2011/10/04/fixits.html.
+* _This Fixits, as…_:  Ibid.
+
+
+== Part VI: The Technological Practices Of Integrating Information Security Change Management And Compliance
+
+
+=== Chapter 22: Information Security as Everyone’s Job, Every Day 
+
+* Page 313:		_One of the top…_:  James Wickett, “Attacking Pipelines--Security meets Continuous Delivery,” Slideshare.net, posted by James Wickett, June 11, 2014, http://www.slideshare.net/wickett/attacking-pipelinessecurity-meets-continuous-delivery.
+* _James Wickett, one…_:  Ibid.
+* _Similar ideas were…_:  Tapabrata Pal, “DOES15 Tapabrata Pal Banking on Innovation & DevOps,” YouTube video, 32:57, posted by DevOps Enterprise Summit, January 4, 2016, https://www.youtube.com/watch?v=bbWFCKGhxOs.
+* Page 314:		_Justin Arbuckle, former…_:  Justin Arbuckle, personal interview with Gene Kim, 2015.
+* _He continues, “By…_:  Ibid.
+* Page 314:	 _This helped the…_:  Snehal Antani, “IBM Innovate DevOps Keynote,” YouTube video, 47:57, posted by IBM DevOps, June 12, 2014, https:// www.youtube.com/watch?v=s0M1P05-6Io.
+* Page 315:	 _In a presentation…_:  Nick Galbreath, “DevOpsSec: Appling DevOps Principles to Security, DevOpsDays Austin 2012,” Slideshare, posted by Nick Galbreath, April 12, 2012, http://www.slideshare.net/nickgsuperstar/devopssec-apply-devops-principles-to-security.
+* _Furthermore, he states…_:  Ibid.
+* Page 320:	 _Furthermore, we should…_:  “OWASP Cheat Sheet Series,” OWASP.org, last modified March 2, 2016, https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series.
+The scale of… Justin Collins, Alex Smolen, and Neil Matatall, “Putting to your Robots to Work V1.1,” Slideshare.net, posted by Neil Matatall, April 24, 2012, http://www.slideshare.net/xplodersuv/sf-2013-robots/.
+* _In early 2009…_:  “What Happens to Companies That Get Hacked? FTC Cases,” Giant Bomb forum, posted by SuicidalSnowman, July 2012, http://www.giantbomb.com/forums/off-topic-31/what-happens-to-companies-that-get-hacked-ftc-case-540466/.
+* Page 321:	 _In their previously…_:  Collins, Smolen, and Matatall, “Putting to your Robots to Work V1.1.”
+* Page 322:	 _The first big…_:  Twitter Engineering, “Hack Week @ Twitter,” Twitter blog, January 25, 2012, https://blog.twitter.com/2012/hack-week-twitter.
+* Page 323:	 _Josh Corman observed…_:  Josh Corman and John Willis, “Immutable Awesomeness Josh Corman and John Willis at DevOps Enterprise Summit 2015,” YouTube video, 34:25, posted by Sonatype, October 21, 2015, https://www.youtube.com/watch?v=-S8-lrm3iV4.
+* _In the 2014…_: Verizon, ”2014 Data Breach Investigations Report,” (Verizon Enterprise Solutions, 2014), https://dti.delaware.gov/pdfs/rp_Verizon-DBIR-2014_en_xg.pdf.
+* Page 324:	 _In 2015, this…_:  “2015 State of the Software Supply Chain Report: Hidden Speed Bumps on the Way to ‘Continuous,’” (Fulton, MD: Sonatype, Inc, 2015), http://cdn2.hubspot.net/hubfs/1958393/White_Papers/2015_State_of_the_Software_Supply_Chain_Report-.pdf?t=1466775053631.
+* _The last statistic…_:  Dan Geer and Joshua Corman, “Almost Too Big to Fail,” ;login:: The Usenix Magazine, 39, no. 4 (August 2014): 66-68, https://www.usenix.org/system/files/login/articles/15_geer_0.pdf.
+* Page 325:	 US Federal Government… Wyatt Kash, “New details released on proposed 2016 IT spending,” FedScoop, February 4, 2015, http://fedscoop.com/what-top-agencies-would-spend-on-it-projects-in-2016.
+* As Mike Bland… Bland, “DOES15 Mike Bland Pain Is Over, If You Want It.”
+* Page 326:	 Furthermore, the Cloud.gov… Mossadeq Zia, Gabriel Ramírez, Noah Kunin, “Compliance Masonry: Bulding a risk management platform, brick by brick,” 18F, April 15, 2016, https://18f.gsa.gov/2016/04/15/compliance-masonry-buildling-a-risk-management-platform/.
+* _Marcus Sachs, one…_:  Marcus Sachs, personal correspondence with Gene Kim, 2010.
+* Page 328:	 _We need to…_:  “VPC Best Configuration Practices,” Flux7 blog, January 23, 2014, http://blog.flux7.com/blogs/aws/vpc-best-configuration-practices.
+* _In 2010, Nick…_:  Nick Galbreath, “Fraud Engineering, from Merchant Risk Council Annual Meeting 2012,” Slideshare.net, posted by Nick Galbreath, May 3, 2012, http://www.slideshare.net/nickgsuperstar/fraud-engineering.
+* Page 329:	 _Of particular concern…_:  Nick Galbreath, “DevOpsSec: Appling DevOps Principles to Security, DevOpsDays Austin 2012,” Slideshare.net, posted by Nick Galbreath, April 12, 2013, http://www.slideshare.net/nickgsuperstar/devopssec-apply-devops-principles-to-security.
+* _We were always…_:  Ibid.
+* _This was a ridiculously…_:  Ibid.
+* _As Galbreath observed…_:  Ibid.
+* Page 330:	 _Galbreath observed, “One…_:  Ibid.
+* _As Jonathan Claudius…_:  Jonathan Claudius, “Attacking Cloud Services with Source Code,” Speakerdeck.com, posted by Jonathan Claudius, April 16, 2013, https://speakerdeck.com/claudijd/attacking-cloud-services-with-source-code.
+
+=== Chapter 23: Protecting the Deployment Pipeline and Integrating into Change Management and Other Security and Compliance Controls 
+
+* Page 334:		ITIL defines utility… Axelos, ITIL Service Transition (ITIL Lifecycle Suite) (Belfast, Ireland: TSO, 2011), 48.
+* Page 337:	 _Salesforce was founded…_:  Reena Matthew and Dave Mangot, “DOES14 Reena Mathew and Dave Mangot Salesforce,” Slideshare.net, posted by ITRevolution, October 29, 2014, http:// www.slideshare.net/ITRevolution/does14-reena-matthew-and-dave-mangot-salesforce.
+* _By 2007, the…_:  Dave Mangot and Karthik Rajan, “Agile.2013. effecting.a.dev ops.transformation.at.salesforce,” Slideshare.net, posted by Dave Mangot, August 12, 2013, http://www.slideshare.net/dmangot/agile2013effectingadev-opstransformationatsalesforce.
+* _Karthik Rajan, then…_:  Ibid.
+* _At the 2014…_:  Matthew and Mangot, “DOES14  Salesforce.”
+* Page 338:	 _For Mangot and …_:  Ibid.
+* _Furthermore, they noted …_:  Ibid.
+* Page 339:	 _Bill Massie is…_:  Bill Massie, personal correspondence with Gene Kim, 2014.
+* Page 340:	 _Because the scope…_:  “Glossary,” PCI Security Standards Council website, accessed May 30, 2016, https://www.pcisecuritystandards.org/pci_security/glossary.
+* _Are code review…_:  PCI Security Standards Council, Payment Card Industry (PCI) Data Security Stands: Requirements and Security Assessment Procedures, Version 3.1 (PCI Security Standards Council, 2015), Section 6.3.2. https://webcache.googleusercontent.com/search?q=cache:hpRe2COzzdAJ:https://www.cisecuritystandards.org/documents/PCI_DSS_v3-1_SAQ_D_Merchant_rev1-1.docx+&cd=2&hl=en&ct=clnk&gl=us.
+* Page 341:	 _To fulfill this…_:  Bill Massie, personal correspondence with Gene Kim, 2014.
+* _Massie observes that…_:  Ibid.
+* _As a result…_:  Ibid.
+* Page 342:	 _As Bill Shinn…_:  Bill Shinn, “DOES15 Bill Shinn Prove it! The Last Mile for DevOps in Regulated Organizations,” Slideshare.net, posted by ITRevolution, November 20, 2015, http://www.slideshare.net/ITRevolution/does15-bill-shinn-prove-it-the-last-mile-for-devops-in-regulated-organizations.
+* _Helping large enterprise…_:  Ibid. Shinn notes, “One … Ibid. “That was fine … Ibid.
+* _He explains, “In …_:  Ibid.
+* Page 343:	 _Shinn states that …_:  Ibid. 
+* _Shinn continues, “With…_:  Ibid. 
+* _That requires deriving …_:  Ibid. 
+* _Shinn continues, “How …_:  Ibid. 
+* _Shinn gives an…_:  Ibid.
+* _To helps solve…_:  James DeLuccia, Jeff Gallimore, Gene Kim, and Byron Miller, DevOps Audit Defense Toolkit (Portland, OR: IT Revolution, 2015), http://itrevolution.com/devops-and-auditors-the-devops-audit-defense-toolkit.
+* Page 344:	 _She made the…_:  Mary Smith (a pseudonym), personal correspondence with Gene Kim, 2013
+* She observed: … Ibid., 2014.
+
+== Conclusion to the DevOps Handbook: A Call to Action
+* Page 349:	_As Jesse Robbins…_: “Hacking Culture at VelocityConf,” Slideshare. net, posted by Jesse Robbins, June 28, 2012, http://www.slideshare.net/jesserobbins/hacking-culture-at-velocityconf.
+
+== Appendices
+
+* Page 353:	 _The Lean movement started…_:  Ries, The Lean Startup.
+* Page 354:	 _A key principal…_:  Kent Beck et al., “Twelve Principles of Agile Software,” AgileManifesto.org, 2001, http://agilemanifesto.org/principles.html.
+* Page 355:	 Toyota Kata describes…  Rother, Toyota Kata, Introduction.
+* _His conclusion was…_:  Ibid..
+* Page 355:		_In 2011, Eric…_:  Ries, The Lean Startup.
+* Page 358:		_In the Phoenix…_:  Kim, Behr, and Spafford, The Phoenix Project, 365.
+* Page 360:		_Myth 1: “Human…_:  Denis Besnard and Erik Hollnagel, Some Myths about Industrial Safety(Paris, Centre De Recherche Sur Les Risques Et Les Crises Mines, 2012), 3, http://gswong.com/?wpfb_dl=31.
+*  Myth 2: _“Systems…_:  Ibid., 4.
+* Myth 3: _“Safety…_:  Ibid., 6.
+* Myth 4: _“Accident…_:  Ibid., 8.
+* Myth 5: _“Accident…_:  Ibid., 9.
+* Myth 6: _Safety…_:  Ibid., 11.
+* _Rather, when the…_:  John Shook, “Five Missing Pieces in Your Standardized Work (Part 3 of 3),” Lean.org, October 27, 2009, http://www.lean.org/shook/DisplayObject.cfm?o=1321.
+* Page 363:	 _Time to resolve…_:  “Post Event Retrospective Part 1,” Rally Blogs, accessed May 31, 2016, https://www.rallydev.com/blog/engineering/post-event-retrospective-part-i.
+* _Bethany Macri, from…_:  “Morgue: Helping Better Understand events by Building a Post Mortem Tool Bethany Macri,” Vimeo video, 33:34, posted by info@devopsdays.org, October 18, 2013, http://vimeo.com/77206751.
+* Page 364:	 _These discussions have…_:  Cockcroft, Hicks, and Orzell, “Lessons Netflix Learned.”
+* _Since then, Chaos…_: Ibid.
+
+:numbered:
