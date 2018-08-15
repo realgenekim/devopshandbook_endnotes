@@ -237,7 +237,7 @@ Indeed, one of… Kersten, IT Revolution, and PwC, 2015 State of DevOps Report.
 
 * Page 72:	 _In 2013, journalist…_:  Vance, “LinkedIn: A Story About,” Bloomberg.
 
-* _Scott launched Operation…_:  “How I Structured Engineering Teams at LinkedIn and AdMob for Success,” First Round Review, 2015, http:// firstround.com/review/how-i-structured-engineering-teams-at-linkedin-and-admob-for-success/.
+* _Scott launched Operation…_:  “How I Structured Engineering Teams at LinkedIn and AdMob for Success,” First Round Review, 2015, http://firstround.com/review/how-i-structured-engineering-teams-at-linkedin-and-admob-for-success/.
 
 * _Scott described one…_:  Ashlee Vance, “Inside Operation InVersion, the Code Freeze that Saved LinkedIn,” Bloomberg, April 11, 2013, http://www.bloomberg.com/news/articles/2013-04-10/inside-operation-inversion-the-code-freeze-that-saved-linkedin.
 
