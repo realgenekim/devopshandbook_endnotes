@@ -526,7 +526,7 @@ Prachi Gupta, Director… Prachi Gupta, “Visualizing LinkedIn’s Site Perform
 * _He continued, “By…_:  Ibid.
 * Page 243:	 _In previous eras…_:  “Direct Marketing,” Wikipedia, last modified May 28, 2016, https://en.wikipedia.org/wiki/Direct_marketing.
 * _Interestingly, it has…_:  Freakonomics, “Fighting Poverty With Actual Evidence: Full Transcript,” Freakonomics.com, November 27, 2013, http://freakonomics.com/2013/11/27/fighting-poverty-with-actual-evidence-full-transcript/.
-* Page 244:	 _Ronny Kohavi, Distinguished…_:  Ron Kohavi, Thomas Crook, and Roger Longbotham, “Online Experimentation at Microsoft,” (paper presented at the Fifteenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Paris, France, 2009), http://www.exp-platform.com/documents/exp_dmcasestudies.pdf.
+* Page 244:	 _Ronny Kohavi, Distinguished…_:  Ron Kohavi, Thomas Crook, and Roger Longbotham, “Online Experimentation at Microsoft,” (paper presented at the Fifteenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Paris, France, 2009), https://exp-platform.com/Documents/ExP_DMCaseStudies.pdf.
 * _Kohavi goes on…_: Ibid.
 * Page 246:	 _Barry O’Reilly, co-author…_:  Barry O’Reilly, “How to Implement Hypothesis-Driven Development,” BarryOReilly.com, October 21, 2013,  http://barryoreilly.com/2013/10/21/how-to-implement-hypothesis-driven-development/.
 * _In 2009, Jim…_:  Gene Kim, “Organizational Learning and Competitiveness: Revisiting the “Allspaw/Hammond 10 Deploys Per Day at Flickr” Story,” ITRevolution.com, 2015, http://itrevolution.com/organizational-learning-and-competitiveness-a-different-view-of-the-allspawhammond-10-deploys-per-day-at-flickr-story/.
